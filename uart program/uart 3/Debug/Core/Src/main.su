@@ -1,0 +1,10 @@
+../Core/Src/main.c:27:6:UART2_GPIO_Init	40	static
+../Core/Src/main.c:43:6:UART2_Init	8	static
+../Core/Src/main.c:59:6:UART_Receive	16	static
+../Core/Src/main.c:66:6:LCD_GPIO_Init	32	static
+../Core/Src/main.c:79:6:LCD_Command	16	static
+../Core/Src/main.c:100:6:LCD_Init	8	static
+../Core/Src/main.c:111:6:LCD_Char	16	static
+../Core/Src/main.c:132:6:LCD_String	16	static
+../Core/Src/main.c:139:6:LCD_Clear	8	static
+../Core/Src/main.c:145:5:main	16	static
